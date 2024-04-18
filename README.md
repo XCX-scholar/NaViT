@@ -10,7 +10,7 @@ learnable, fixed, and Fourier.
 For the video version of NaVit, we referred to variant-3 of Latte (https://github.com/Vchitect/Latte) and used alternating spatial-temporal self-attention to extract information from both temporal and spatial dimensions.
 This requires the input video to have the same frame rate,
 but still allows for videos of different resolutions.
-![img](.\architecture.svg)
+![img](.\navit\architecture.svg)
 For the temporal dimension, we use fixed position embedding.
 ## Training
 We provide a script for training NaVit. We adopt the tasks from the original paper,
