@@ -42,3 +42,11 @@ and we are looking forward to finding suitable alternative datasets.
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── navit_video.py  
 ├── scripts  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── train.py
+## to do
+$\cdot$ Enable pre-train model.
+
+$\cdot$ Optimized dataloaders.
+
+$\cdot$ Add training scripts for video-NaViT
+
+$\cdot$ Add self-supervised learning task for CLIP traininig
